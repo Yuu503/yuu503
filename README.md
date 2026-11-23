@@ -3,12 +3,14 @@
 Yuu Konno  
 Systems Engineer | Japan
 
-Hello, I'm Yuu. Born in 1984, I work as a systems engineer in Japan. My primary tools are C# and .NET, and I thrive on leveraging my skills across diverse projects. I enjoy exploring new technologies, with recent forays into AI and cloud technologies. Outside of work, my hobbies include cooking and building PCs.
+Hello, I'm Yuu. Born in 1984, I work as a systems engineer in Japan. My primary tools are C# and .NET, and I enjoy applying them across different projects. I also like exploring new technologies, with recent interests in AI and cloud technologies. Outside of work, my hobbies include cooking and building PCs.
 
 ---
 
-Website: [ateliers.dev (https://ateliers.dev/)](https://ateliers.dev/)  
-Visit my website to check out my technical portfolio and projects. I'd love for you to drop by!
+Most of my software development and open-source activity takes place through [Ateliers-Dev](https://github.com/Ateliers-Dev).
+
+Official site: [ateliers.dev](https://ateliers.dev/)  
+The site shares Ateliers' technical notes and project information.
 
 ---
 
