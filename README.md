@@ -9,8 +9,8 @@ Hello, I'm Yuu. Born in 1984, I work as a systems engineer in Japan. My primary 
 
 Most of my software development and open-source activity takes place through [Ateliers-Dev](https://github.com/Ateliers-Dev).
 
-Official site: [ateliers.dev](https://ateliers.dev/)  
-The site shares Ateliers' technical notes and project information.
+My technical portfolio: [ateliers.dev](https://ateliers.dev/)  
+I share technical notes, development guidelines, and Ateliers project knowledge there.
 
 ---
 
